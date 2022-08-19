@@ -1,0 +1,18 @@
+---installations in backend-----
+npm i express
+npm i dotenv //to make use of .env file
+npm i mongoose
+npm i express-async-handler
+npm i jsonwebtoken
+npm i bycrypt
+npm i socket.io
+
+
+---installations in frontend-----
+npm i react-router-dom
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion  //to get readymade componets
+npm i axios //for fetching api's
+npm i react-scrollable-feed
+npm i socket.io-client
+npm i react-lottie
+npm i react-notification-badge
