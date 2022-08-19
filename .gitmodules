@@ -1,0 +1,3 @@
+[submodule "mern-chatting-app-frontend"]
+	path = mern-chatting-app-frontend
+	url = git@github.com:Saswati0510/mern-chatting-app-frontend.git
